@@ -26,7 +26,7 @@ namespace WebDogApp.Controllers
         {
             return View();
         }
-        public IActionResult Aboutus()
+        public IActionResult About()
         {
             return View();
         }
